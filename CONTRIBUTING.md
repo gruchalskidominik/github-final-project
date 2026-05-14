@@ -14,4 +14,4 @@ Thank you for your interest in contributing!
 3. Make your changes
 4. Submit a pull request
 
-All contributions are welcome and appreciated!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
